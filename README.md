@@ -19,4 +19,5 @@ Also using words that express positive sentiment and negative sentiment in txt.
 
 
 ### Roadmap
+
 - Create scatterplot with Matplotlib of `Number of Retweets` vs `Net sentiment Score`
